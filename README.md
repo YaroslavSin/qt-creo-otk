@@ -28,7 +28,7 @@ process.
  
 
 Purpose
-=======
+-------
 
 An ability to use Qt reach graphical user interface to manage data from and
 control the Creo Parametric.
@@ -36,7 +36,7 @@ control the Creo Parametric.
  
 
 Setup
-=====
+-----
 
 1.  Create environment variable PROTOOLKIT8_SYS and point to "Common Files" path
     (example "D:\\PTC\\Creo X.0.X.0\\Common Files");
@@ -49,7 +49,7 @@ Setup
  
 
 Testing
-=======
+-------
 
 1.  Start Creo Parametric
 
